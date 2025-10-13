@@ -7,3 +7,5 @@ services:
      - "7000:7000"
    volumes:
      - ./databag-data:/var/lib/databag
+
+# Update: 2025-10-14
